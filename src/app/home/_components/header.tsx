@@ -1,6 +1,6 @@
 export function Header() {
   return (
-    <header className="max-w-full text-center  flex flex-col items-center mt-20 p-4">
+    <header className="max-w-full text-center flex flex-col items-center ">
       <small className="font-semibold text-primary text-lg">Issues Blog</small>
       <h1 className="text-slate-800 font-bold text-4xl mt-3">
         Crie seus posts e interaja de forma anônima
